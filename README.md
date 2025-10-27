@@ -139,10 +139,31 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 ---
 
+---
+
+## 📊 Orgnaisation GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosin-loantap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosin-loantap&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🔥 GitHub Streaks & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sayyadmosin&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+---
+
+## 🔥 Orgnaisation GitHub Streaks & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mosin-loantap&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
