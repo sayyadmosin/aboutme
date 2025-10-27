@@ -36,9 +36,9 @@ My journey spans from backend engineering to leading teams and managing large-sc
 
 ## 💼 Professional Experience
 
-### **Manager – Rupee Xpert Pvt. Ltd.** *(May 2025 – Present)*
-- Overseeing IT operations, digital marketing, and web development projects.  
-- Managing cloud infrastructure and ensuring project delivery excellence.
+### **Manager - Lead Developer –LoanTap Financial Technologies.** *(July 2025 – Present)*
+- Overseeing IT operations, development projects.  
+- Creating Architecture for applications and Development
 
 ### **Project Manager – IT Works Infotech Pvt. Ltd.** *(Feb 2025 – Apr 2025)*
 - Managed migration from WordPress to Laravel web applications.  
