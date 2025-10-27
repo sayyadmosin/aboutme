@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:sayyad_mosin@hotmail.com"><img src="https://img.shields.io/badge/Email-sayyad__mosin%40hotmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mosin-sayyed-4b35a3a9/"><img src="https://img.shields.io/badge/LinkedIn-Mosin%20Sayyed-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://size24.in/"><img src="https://img.shields.io/badge/Website-Portfolio-brightgreen?style=flat-square&logo=google-chrome"></a>
+ 
 </p>
 
 ---
@@ -118,7 +118,7 @@ My journey spans from backend engineering to leading teams and managing large-sc
 ## 🔥 GitHub Streaks & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mosinsayyed&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sayyadmosin&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -126,8 +126,8 @@ My journey spans from backend engineering to leading teams and managing large-sc
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:sayyad_mosin@hotmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
-  <a href="https://www.linkedin.com/in/mosin-sayyed-4b35a3a9/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:sayyad_mosin@hotmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mosin-sayyed-4b35a3a9/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
  
 </p>
 
