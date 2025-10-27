@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:sayyad_mosin@hotmail.com"><img src="https://img.shields.io/badge/Email-sayyad__mosin%40hotmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mosin-sayyed-4b35a3a9/"><img src="https://img.shields.io/badge/LinkedIn-Mosin%20Sayyed-blue?style=flat-square&logo=linkedin"></a>
- 
+  <a href="https://wa.me/918600432414"><img src="https://img.shields.io/badge/Call%20%2F%20WhatsApp-%2B91%2086004%2032414-brightgreen?style=flat-square&logo=whatsapp"></a>
 </p>
 
 ---
@@ -60,9 +60,8 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 ## 💼 Professional Experience
 
-### **Manager -Lead Developer – LoanTap Financial Technologies** *(May 2025 – Present)*
-- Overseeing IT operationsand Full-stack web development.  
-  
+### **Manager - Lead Developer – LoanTap Financial Technologies** *(May 2025 – Present)*
+- Overseeing IT operations and full-stack web development.  
 
 ### **Project Manager – IT Works Infotech Pvt. Ltd.** *(Feb 2025 – Apr 2025)*
 - Managed migration from WordPress to Laravel web applications.  
@@ -139,9 +138,7 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 ---
 
----
-
-## 📊 Orgnaisation GitHub Stats
+## 📊 Organisation GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosin-loantap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -158,9 +155,7 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 ---
 
----
-
-## 🔥 Orgnaisation GitHub Streaks & Activity
+## 🔥 Organisation GitHub Streaks & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mosin-loantap&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -172,8 +167,8 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 <p align="center">
   <a href="mailto:sayyad_mosin@hotmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email"/></a>
+  <a href="https://wa.me/918600432414"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/mosin-sayyed-4b35a3a9/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
- 
 </p>
 
 ---
